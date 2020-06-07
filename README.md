@@ -1,5 +1,9 @@
->![GitHub license](https://img.shields.io/github/license/haroldocruz/cee-sistema?style=for-the-badge)
+<div align="center">
+
+![GitHub license](https://img.shields.io/github/license/haroldocruz/cee-sistema?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/Main%20CVS-GIT-blue.svg?style=for-the-badge&logo=GIT&color=F05032&logoColor=fff)
+
+</div>
 
 >![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=for-the-badge&logo=Expo&color=000020&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=for-the-badge&logo=JavaScript&color=F7DF1E&logoColor=fff)
