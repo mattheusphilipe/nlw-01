@@ -2,10 +2,11 @@
  
  ## Summary
  
- - [What's Next Level Week?](#what's-next-level-week)
+ - [What's Next Level Week?](#whats-next-level-week)
  - [Project](#the-project)
  - [Technologies](#technologies)
  - [Tools](#tools)
+ - [Resources](#resources)
 
 ## What's Next Level Week?
  __NLW__ is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.  An online and completely free event that will help you take the next step in your evolution as a dev.
