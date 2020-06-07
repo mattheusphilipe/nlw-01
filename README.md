@@ -33,7 +33,7 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
     * [@expo-google-fonts/roboto](https://www.npmjs.com/package/@expo-google-fonts/roboto) - Use the Roboto font family from Google Fonts in your Expo app;
     * [@expo-google-fonts/ubuntu](https://www.npmjs.com/package/@expo-google-fonts/ubuntu) - Use the Ubuntu font family from Google Fonts in your Expo app;
 * [Joi](https://github.com/hapijs/joi) - A powerful schema description language and data validator for JavaScript;
-    * [@types/hapi__joi](https://www.npmjs.com/package/@types/hapi__joi) - This package contains type definitions for [`@hapi/joi`] (https://github.com/hapijs/joi)
+    * [@types/hapi__joi](https://www.npmjs.com/package/@types/hapi__joi) - This package contains type definitions for [`@hapi/joi`](https://github.com/hapijs/joi)
 * [knex](https://www.npmjs.com/package/knex) - A batteries-included SQL query & schema builder for Postgres, MySQL and SQLite3 and the Browser;
 * [leaftlet](https://www.npmjs.com/package/leaflet) - JavaScript library for mobile-friendly interactive maps;
     * [react-leaflet](https://www.npmjs.com/package/react-leaflet) - React components for Leaflet maps;
