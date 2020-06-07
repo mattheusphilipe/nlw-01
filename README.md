@@ -27,7 +27,7 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 * celebrate
 * [cors](https://www.npmjs.com/package/cors) - Node.js CORS middleware;
 * [Express](https://github.com/expressjs/express) - Estrutura de aplicativo da Web para o Node.js;
-    * @types/express
+    * [@types/express](https://www.npmjs.com/package/@types/express) - TypeScript definitions for Express;
 * [Expo](https://github.com/expo/expo) - Platform for making universal native apps for Android, iOS, and the web with JavaScript and React;
     * expo-cli
     * expo-constants
@@ -45,30 +45,27 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
     * expo-location
     * expo-mail-composer
 * [Joi](https://github.com/hapijs/joi) - A powerful schema description language and data validator for JavaScript;
-    * @types/hapi__joi
-* [Knex](https://www.npmjs.com/package/knex) - A batteries-included SQL query & schema builder for Postgres, MySQL and SQLite3 and the Browser;
-* leaftlet - Pegar valores de latitude e longitude;
-* [Multer](https://github.com/expressjs/multer) - Node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency;
-    * @types/multer
-* NodeJs
-    * ts-node
-    * ts-node-dev
+    * [@types/hapi__joi](https://www.npmjs.com/package/@types/hapi__joi) - This package contains type definitions for [`@hapi/joi`] (https://github.com/hapijs/joi)
+* [knex](https://www.npmjs.com/package/knex) - A batteries-included SQL query & schema builder for Postgres, MySQL and SQLite3 and the Browser;
+* [leaftlet](https://www.npmjs.com/package/leaflet) - JavaScript library for mobile-friendly interactive maps;
+    * [react-leaflet](https://www.npmjs.com/package/react-leaflet) - React components for Leaflet maps;
+        * [@types/react-leaflet](https://www.npmjs.com/package/@types/react-leaflet) - TypeScript definitions for react-leaflet;
+* [multer](https://github.com/expressjs/multer) - Node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency;
+    * [@types/multer](https://www.npmjs.com/package/@types/multer) - TypeScript definitions for multer;
+* [NodeJs](https://nodejs.org/) - Is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser;
 * [React](https://github.com/facebook/react) - Biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web;
-    * react-dropzone
-    * react-icons
-    * react-leaflet
-        * @types/react-leaflet
+    * [react-dropzone](https://www.npmjs.com/package/react-dropzone) - Simple HTML5 drag-drop zone with React.js;
+    * [react-icons](https://www.npmjs.com/package/react-icons) - SVG React icons of popular icon packs using ES6 imports;
     * [react-router-dom](https://www.npmjs.com/package/react-router-dom) - DOM bindings for React Router;
-        * @types/react-router-dom
+        * [@types/react-router-dom](https://www.npmjs.com/package/@types/react-router-dom) - TypeScript definitions for React Router
 * [React Native](https://github.com/facebook/react-native) - Biblioteca Javascript criada para desenvolver aplicativos para os sistemas Android e IOS de forma nativa;
 * React-native-community/picker - Componente de 'select' dentro do mobile;
-* React Navigation - Navegação dentro do mobile;
-    * @react-navigation/native
-* [React-Leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps;
-    * [@types/react-router-dom](https://www.npmjs.com/package/@types/react-router-dom) - TypeScript definitions for React Router;
+* [React Navigation](https://www.npmjs.com/package/react-navigation) - Routing and navigation for your React Native apps;
+    * [@react-navigation/native](https://www.npmjs.com/package/@react-navigation/native) - React Native integration for React Navigation;
 * [sqlite3](https://www.npmjs.com/package/sqlite3) - Asynchronous, non-blocking SQLite3 bindings;
-* ts-node
 * [TypeScript](https://github.com/Microsoft/TypeScript) - Superset de Javascript;
+    * [ts-node](https://www.npmjs.com/package/ts-node) - TypeScript execution environment and REPL for node.js, with source map support;
+    * [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - Compiles your TS app and restarts when files are modified;
 * lottie-react-web - animaçōes dentro da web;
 * and many others.
   
