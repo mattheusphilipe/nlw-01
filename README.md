@@ -103,5 +103,5 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 ###### Developed on Next Level Week #01 from [RocketSeat](https://rocketseat.com.br).
 
 
-> - Developed by `Haroldo Cruz` - [https://linkedin.com/in/haroldocruz-dev](https://www.linkedin.com/in/haroldocruz-dev)
-> - Guided by `Diego Fernandes` - [https://linkedin.com/in/diego-schell-fernandes](https://www.linkedin.com/in/diego-schell-fernandes).
+> - Developed by [![LinkedIn](https://img.shields.io/badge/-Haroldo%20Cruz-blue.svg?style=flat-square&logo=Linkedin&color=0077B5&logoColor=fff)](https://linkedin.com/in/haroldocruz-dev)
+> - Guided by [![LinkedIn](https://img.shields.io/badge/-Diego%20Fernandes-blue.svg?style=flat-square&logo=Linkedin&color=0077B5&logoColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
