@@ -1,0 +1,46 @@
+<p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
+ <h4 align="center">🚧 NextLevelWeek 1.0 🚀 🚧</h4>
+ 
+ ## 📍 Índice
+ 
+ - [What's Next Level Week?](#-what's-next-level-week)
+ - [Project](#-project)
+ - [Technologies](#-technologies)
+ - [Tools](#-tools)
+
+## ℹ️What's Next Level Week?
+ __NLW__ is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.  An online and completely free event that will help you take the next step in your evolution as a dev.
+
+## :computer: Project
+__Ecoleta__ is a project developed based on the International Environment Week. The goal is to connect people to companies that collect specific waste, such as light bulbs, batteries, etc.
+</br>
+</br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/vitorqueirosz/nlw-01/94e2e60bb155332dc9057e073c62f1a4a87cde77/server/uploads/Ecoleta%20(Booster).svg" heigth="20%" width="60%">
+</p>
+</br>
+
+## Technologies
+
+#### This project was developed with the following technologies:
+
+- [TypeScript](https://github.com/Microsoft/TypeScript)
+- [Express](https://github.com/expressjs/express)
+- [React](https://github.com/facebook/react)
+- [React Native](https://github.com/facebook/react-native)
+- [React-Leaflet](https://github.com/PaulLeCam/react-leaflet)
+- [Expo](https://github.com/expo/expo)
+- [Multer](https://github.com/expressjs/multer)
+- [Joi](https://github.com/hapijs/joi)
+
+## Tools
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Insomnia](https://insomnia.rest)
+- Dispositivo movel
+</br>
+
+###### Developed on Next Level Week from [RocketSeat](https://rocketseat.com.br).
+
+
+> - Developed by `Haroldo Cruz` - [https://linkedin.com/in/haroldocruz-dev](https://www.linkedin.com/in/haroldocruz-dev)
+> - Guided by `Roketseat` - [https://rocketseat.com.br](https://rocketseat.com.br).
