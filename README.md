@@ -2,15 +2,15 @@
  
  ## Summary
  
- - [What's Next Level Week?](#-what's-next-level-week)
- - [Project](#-project)
- - [Technologies](#-technologies)
- - [Tools](#-tools)
+ - [What's Next Level Week?](#what's-next-level-week)
+ - [Project](#the-project)
+ - [Technologies](#technologies)
+ - [Tools](#tools)
 
 ## What's Next Level Week?
  __NLW__ is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.  An online and completely free event that will help you take the next step in your evolution as a dev.
 
-## Project
+## The Project
 __Ecoleta__ is a project developed based on the International Environment Week. The goal is to connect people to companies that collect specific waste, such as light bulbs, batteries, etc.
 </br>
 </br>
@@ -38,7 +38,7 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 * [leaftlet](https://www.npmjs.com/package/leaflet) - JavaScript library for mobile-friendly interactive maps;
     * [react-leaflet](https://www.npmjs.com/package/react-leaflet) - React components for Leaflet maps;
         * [@types/react-leaflet](https://www.npmjs.com/package/@types/react-leaflet) - TypeScript definitions for react-leaflet;
-* [NodeJs](https://nodejs.org/) - Is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser;
+* [NodeJS](https://nodejs.org/) - Is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser;
     * [cors](https://www.npmjs.com/package/cors) - Node.js CORS middleware;
         * [@types/cors](https://www.npmjs.com/package/@types/cors) - TypeScript definitions for cors;
     * [Express](https://github.com/expressjs/express) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications;
