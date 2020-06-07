@@ -96,12 +96,12 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 
 ## Resources
 * [Leaflet](https://leafletjs.com) - An open-source JavaScript library for mobile-friendly interactive maps;
-* [OpenStreetMap](https://www.openstreetmap.org/copyright) - O OpenStreetMap é um mapa do mundo, criado por pessoas como você e de uso livre sob uma licença aberta
+* [Open Street Map](https://www.openstreetmap.org/copyright) - O OpenStreetMap é um mapa do mundo, criado por pessoas como você e de uso livre sob uma licença aberta
 * [IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades) - API referente às divisões político-administrativas do Brasil.
 </br>
 
 ###### Developed on Next Level Week #01 from [RocketSeat](https://rocketseat.com.br).
 
 
-> - Developed by `Haroldo Cruz` - [Linkedin](https://www.linkedin.com/in/haroldocruz-dev)
-> - Guided by `Diego Fernandes` - [Linkedin](https://www.linkedin.com/in/diego-schell-fernandes).
+> - Developed by `Haroldo Cruz` - [https://linkedin.com/in/haroldocruz-dev](https://www.linkedin.com/in/haroldocruz-dev)
+> - Guided by `Diego Fernandes` - [https://linkedin.com/in/diego-schell-fernandes](https://www.linkedin.com/in/diego-schell-fernandes).
