@@ -103,5 +103,6 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 ###### Developed on Next Level Week #01 from [RocketSeat](https://rocketseat.com.br).
 
 
->[![LinkedIn Haroldo](https://img.shields.io/badge/Developed%20by%20:-Haroldo%20Cruz-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff&llColor=fff)](https://linkedin.com/in/haroldocruz-dev)
->[![LinkedIn Diego](https://img.shields.io/badge/Guided%20by%20:-Diego%20Fernandes-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff&llColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
+>[![LinkedIn Haroldo](https://img.shields.io/badge/Developed%20by%20:-Haroldo%20Cruz-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff)](https://linkedin.com/in/haroldocruz-dev)
+>[![LinkedIn Diego](https://img.shields.io/badge/-+55%2063%20984%20589%20691-blue.svg?style=for-the-badge&logo=WhatsApp&color=25D366&logoColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
+>[![LinkedIn Diego](https://img.shields.io/badge/Guided%20by%20:-Diego%20Fernandes-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
