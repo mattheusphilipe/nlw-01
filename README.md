@@ -7,9 +7,9 @@
 ![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=fff)
 ![Json](https://img.shields.io/badge/-Json-blue.svg?style=flat-square&logo=Json&color=000&logoColor=fff)
+![Leaflet](https://img.shields.io/badge/-Leaflet-blue.svg?style=flat-square&logo=Leaflet&color=199900&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-blue.svg?style=flat-square&logo=Node.JS&color=8CC03D&logoColor=fff)
 ![Node Package Manager](https://img.shields.io/badge/-NPM-blue.svg?style=flat-square&logo=NPM&color=CB3837&logoColor=fff)
-![Json](https://img.shields.io/badge/-Json-blue.svg?style=flat-square&logo=Json&color=000&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-blue.svg?style=flat-square&logo=React&color=61DAFB&logoColor=000)
 ![SQLite](https://img.shields.io/badge/-SQLite-blue.svg?style=flat-square&logo=SQLite&color=003B57&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=flat-square&logo=TypeScript&color=007ACC&logoColor=fff)
@@ -53,7 +53,7 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 * [**Joi**](https://github.com/hapijs/joi) - A powerful schema description language and data validator for JavaScript;
     * [**@types/hapi__joi**](https://www.npmjs.com/package/@types/hapi__joi) - This package contains type definitions for [`@hapi/joi`](https://github.com/hapijs/joi)
 * [**knex**](https://www.npmjs.com/package/knex) - A batteries-included SQL query & schema builder for Postgres, MySQL and SQLite3 and the Browser;
-* [**leaftlet**](https://www.npmjs.com/package/leaflet) - JavaScript library for mobile-friendly interactive maps;
+* [**leaflet**](https://www.npmjs.com/package/leaflet) - JavaScript library for mobile-friendly interactive maps;
     * [**react-leaflet**](https://www.npmjs.com/package/react-leaflet) - React components for Leaflet maps;
         * [**@types/react-leaflet**](https://www.npmjs.com/package/@types/react-leaflet) - TypeScript definitions for react-leaflet;
 * [**NodeJS**](https://nodejs.org/) - Is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser;
@@ -103,5 +103,5 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 ###### Developed on Next Level Week #01 from [RocketSeat](https://rocketseat.com.br).
 
 
->[![LinkedIn](https://img.shields.io/badge/Developed%20by%20:-Haroldo%20Cruz-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff&llColor=fff)](https://linkedin.com/in/haroldocruz-dev)
->[![LinkedIn](https://img.shields.io/badge/Guided%20by%20:-Diego%20Fernandes-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff&llColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
+>[![LinkedIn Haroldo](https://img.shields.io/badge/Developed%20by%20:-Haroldo%20Cruz-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff&llColor=fff)](https://linkedin.com/in/haroldocruz-dev)
+>[![LinkedIn Diego](https://img.shields.io/badge/Guided%20by%20:-Diego%20Fernandes-blue.svg?style=for-the-badge&logo=Linkedin&color=0077B5&logoColor=fff&llColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
