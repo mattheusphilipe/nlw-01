@@ -3,9 +3,8 @@
 ![GitHub license](https://img.shields.io/github/license/haroldocruz/cee-sistema?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/Main%20CVS-GIT-blue.svg?style=for-the-badge&logo=GIT&color=F05032&logoColor=fff)
 
-</div>
 
->![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=for-the-badge&logo=Expo&color=000020&logoColor=fff)
+![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=for-the-badge&logo=Expo&color=000020&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=for-the-badge&logo=JavaScript&color=F7DF1E&logoColor=fff)
 ![Json](https://img.shields.io/badge/-Json-blue.svg?style=for-the-badge&logo=Json&color=000&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-blue.svg?style=for-the-badge&logo=Node.JS&color=8CC03D&logoColor=fff)
@@ -15,6 +14,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-blue.svg?style=for-the-badge&logo=SQLite&color=003B57&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=for-the-badge&logo=TypeScript&color=007ACC&logoColor=fff)
 
+</div>
 <p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
  
  ## Summary
