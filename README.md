@@ -1,10 +1,13 @@
-<div align="center">
 
-![GitHub license](https://img.shields.io/github/license/haroldocruz/cee-sistema?style=flat-square)
+>[![Pt-Br](https://img.shields.io/badge/PT-BR-blue.svg?style=flat-square&color=D7BF1E&logoColor=fff&labelColor=25A366)](https://linkedin.com/in/haroldocruz-dev)
+[![LinkedIn Haroldo](https://img.shields.io/badge/Developed%20by%20:-Haroldo%20Cruz-blue.svg?style=flat-square&logo=Linkedin&color=0077B5&logoColor=fff)](https://linkedin.com/in/haroldocruz-dev)
+[![WhatsApp Haroldo](https://img.shields.io/badge/-+55%2063%20984%20589%20691-blue.svg?style=flat-square&logo=WhatsApp&color=25D366&logoColor=fff)](http://api.whatsapp.com/send?1=pt_BR&phone=5563984589691&text=)
+[![LinkedIn Diego](https://img.shields.io/badge/Guided%20by%20:-Diego%20Fernandes-blue.svg?style=flat-square&logo=Linkedin&color=0077B5&logoColor=fff)](https://linkedin.com/in/diego-schell-fernandes)
+
+>![GitHub license](https://img.shields.io/github/license/haroldocruz/cee-sistema?style=flat-square)
 ![GIT](https://img.shields.io/badge/Main%20CVS-GIT-blue.svg?style=flat-square&logo=GIT&color=F05032&logoColor=fff)
 
-
-![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
+>![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=fff)
 ![Json](https://img.shields.io/badge/-Json-blue.svg?style=flat-square&logo=Json&color=000&logoColor=fff)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-blue.svg?style=flat-square&logo=Leaflet&color=199900&logoColor=fff)
@@ -14,7 +17,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-blue.svg?style=flat-square&logo=SQLite&color=003B57&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=flat-square&logo=TypeScript&color=007ACC&logoColor=fff)
 
-</div>
 <p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
  
  ## Summary
