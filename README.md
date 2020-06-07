@@ -7,16 +7,6 @@
 >![GitHub license](https://img.shields.io/github/license/haroldocruz/cee-sistema?style=flat-square)
 ![GIT](https://img.shields.io/badge/Main%20CVS-GIT-blue.svg?style=flat-square&logo=GIT&color=F05032&logoColor=fff)
 
->![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=fff)
-![Json](https://img.shields.io/badge/-Json-blue.svg?style=flat-square&logo=Json&color=000&logoColor=fff)
-![Leaflet](https://img.shields.io/badge/-Leaflet-blue.svg?style=flat-square&logo=Leaflet&color=199900&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-blue.svg?style=flat-square&logo=Node.JS&color=8CC03D&logoColor=fff)
-![Node Package Manager](https://img.shields.io/badge/-NPM-blue.svg?style=flat-square&logo=NPM&color=CB3837&logoColor=fff)
-![React](https://img.shields.io/badge/-React-blue.svg?style=flat-square&logo=React&color=61DAFB&logoColor=000)
-![SQLite](https://img.shields.io/badge/-SQLite-blue.svg?style=flat-square&logo=SQLite&color=003B57&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=flat-square&logo=TypeScript&color=007ACC&logoColor=fff)
-
 <p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
  
  ## Summary
@@ -40,6 +30,16 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 </br>
 
 ## Technologies
+
+>![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=fff)
+![Json](https://img.shields.io/badge/-Json-blue.svg?style=flat-square&logo=Json&color=000&logoColor=fff)
+![Leaflet](https://img.shields.io/badge/-Leaflet-blue.svg?style=flat-square&logo=Leaflet&color=199900&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-blue.svg?style=flat-square&logo=Node.JS&color=8CC03D&logoColor=fff)
+![Node Package Manager](https://img.shields.io/badge/-NPM-blue.svg?style=flat-square&logo=NPM&color=CB3837&logoColor=fff)
+![React](https://img.shields.io/badge/-React-blue.svg?style=flat-square&logo=React&color=61DAFB&logoColor=000)
+![SQLite](https://img.shields.io/badge/-SQLite-blue.svg?style=flat-square&logo=SQLite&color=003B57&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=flat-square&logo=TypeScript&color=007ACC&logoColor=fff)
 
 #### This project was developed with the following technologies:
 
